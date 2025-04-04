@@ -1,0 +1,5 @@
+
+train: /content/Bio/Bio/brain tumor.v2i.yolov12/train/images
+val: /content/Bio/Bio/brain tumor.v2i.yolov12/valid/images
+nc: 1
+names: ['tumor']
