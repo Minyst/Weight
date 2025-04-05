@@ -1,0 +1,5 @@
+
+train: /content/Bio/Bio/Polyp detection_at_Colonoscopy_p.v3i.yolov12/train/images
+val: /content/Bio/Bio/Polyp detection_at_Colonoscopy_p.v3i.yolov12/valid/images
+nc: 2
+names: ['polyp','None']
