@@ -1,0 +1,5 @@
+train: /content/Bio/Medical_Dataset/fianl lung cancer.v1i.yolov12/train/images
+val: /content/Bio/Medical_Dataset/fianl lung cancer.v1i.yolov12/valid/images
+nc: 1
+names: ['tumor']
+

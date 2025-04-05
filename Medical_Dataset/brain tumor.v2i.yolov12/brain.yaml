@@ -1,5 +1,5 @@
 
-train: /content/Bio/Bio/brain tumor.v2i.yolov12/train/images
-val: /content/Bio/Bio/brain tumor.v2i.yolov12/valid/images
-nc: 2
-names: ['Tumor','None']
+train: /content/Bio/Medical_Dataset/brain tumor.v2i.yolov12/train/images
+val: /content/Bio/Medical_Dataset/brain tumor.v2i.yolov12/valid/images
+nc: 1
+names: ['tumor']
