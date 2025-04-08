@@ -1,5 +1,0 @@
-
-train: /content/Bio/Medical_Dataset/brain tumor.v2i.yolov12/train/images
-val: /content/Bio/Medical_Dataset/brain tumor.v2i.yolov12/valid/images
-nc: 1
-names: ['tumor']
