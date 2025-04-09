@@ -1,5 +1,0 @@
-
-train: /content/Bio/Bio/skin cancer.v2i.yolov12/train/images
-val: /content/Bio/Bio/skin cancer.v2i.yolov12/valid/images
-nc: 3
-names: ['Non-Cancerous Skin Condition', 'benign', 'malignant']
